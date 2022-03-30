@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amarlou1
-- 👀 I’m interested in Front-end
-- 🌱 I’m currently learning HTML&CSS&JS
+- 👀 I’m interested in Back-end Developing
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on every things
 - 📫 for reach me mail to "amarlou1@yahoo.com
 <!---
